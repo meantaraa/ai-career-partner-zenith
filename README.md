@@ -76,6 +76,3 @@ We welcome contributions! To contribute:
 ---
 
 🛠 Built with ❤️ by Antara Chanda
-
-```
-
