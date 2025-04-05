@@ -62,7 +62,6 @@ Zenith is live at: [https://ai-career-partner-zenith.vercel.app](https://ai-care
 
 We welcome contributions!
 
-
 1. Fork the repository
 
 2. Create a branch: git checkout -b feature/your-feature
