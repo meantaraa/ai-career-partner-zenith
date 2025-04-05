@@ -43,7 +43,7 @@ Make sure you have the following:
 ### Installation
 
 
-1. Clone the repo: git clone https://github.com/your-username/zenith.git
+1. Clone the repo: git clone https://github.com/meantaraa/ai-career-partner-zenith.git
 
 2. Install dependencies: npm install
 
