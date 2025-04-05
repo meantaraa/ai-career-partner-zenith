@@ -67,11 +67,11 @@ We welcome contributions! To contribute:
 
 2. Create a new branch: git checkout -b feature-name
 
-# 3. Make your changes and commit: git commit -m "Add new feature"
+3. Make your changes and commit: git commit -m "Add new feature"
 
-# 4. Push to your branch: git push origin feature-name
+4. Push to your branch: git push origin feature-name
 
-# 5. Submit a pull request
+5. Submit a pull request
 
 ---
 
