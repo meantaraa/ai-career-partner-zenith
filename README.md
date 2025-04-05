@@ -68,14 +68,4 @@ We welcome contributions!
 
 ---
 
-## 👋 Stay Connected
-
-Have feedback or ideas? We'd love to hear from you.
-
-📧 Email: your-email@example.com  
-🐙 GitHub: [https://github.com/your-meantaraa](https://github.com/your-meantaraa)  
-🔗 LinkedIn: [Your LinkedIn Profile]
-
----
-
 🛠 Built with ❤️ by Antara Chanda
