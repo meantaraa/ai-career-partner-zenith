@@ -1,71 +1,81 @@
-# ZENITH – Your AI Career Partner 🎯
+# Gamma – Your Project Management Partner 🚀
 
-**Zenith** is a modern, AI-powered career development platform that helps you navigate the job market with confidence. Whether you're crafting the perfect resume, writing a compelling cover letter, or preparing for interviews, Zenith has your back — tailored to your industry, skills, and goals.
-
----
-
-## 🚀 Features
-
-🧠 **AI-Powered Resume Builder**  
-Generate professional resumes personalized to your experience, skills, and industry best practices.
-
-✉️ **Cover Letter Generator**  
-Create compelling cover letters in seconds with content designed to highlight your strengths and align with job requirements.
-
-🎤 **Interview Preparation System**  
-Practice with adaptive, AI-generated interview questions, track your performance, and get actionable feedback.
-
-📊 **Real-Time Industry Insights**  
-Stay ahead with weekly updates on salary trends, in-demand skills, and career growth opportunities powered by AI analysis.
-
-🛡️ **Secure User Data**  
-We use **Clerk** for secure authentication and industry-standard encryption to protect your data. Your privacy is our priority.
-
-📝 **Fully Editable Content**  
-All AI-generated resumes and letters can be easily customized using our intuitive markdown editor.
-
-📈 **Progress Tracking**  
-Visual analytics track your interview prep over time, offering insights and personalized tips for continuous improvement.
+**Gamma** is a sleek, modern project management platform built to empower teams with efficient issue tracking, intuitive UI, and real-time collaboration. From startups to scaling companies, Gamma makes managing work feel effortless and productive.
 
 ---
 
-## 📦 Getting Started
+## 🌟 Features
+
+📂 **Project & Issue Management**  
+Create and manage projects effortlessly. Organize issues using a Kanban-style board, assign tasks, and track progress in real-time.
+
+🧑‍💼 **Team Collaboration**  
+Invite teammates, assign responsibilities, comment on tasks, and stay aligned across multiple projects.
+
+📊 **Dashboard Overview**  
+Bird’s eye view of active projects, pending issues, and workload stats for better decision-making.
+
+🎯 **Sprint Planning**  
+Plan sprints and track milestones with tools tailored for agile workflows.
+
+🎨 **Beautiful, Responsive UI**  
+Built with Shadcn and Tailwind CSS to offer a delightful user experience on all devices.
+
+🔐 **Secure Authentication**  
+Clerk-powered authentication ensures safe and simple login/signup flows.
+
+🛢️ **PostgreSQL Database via NeonDB**  
+Blazing-fast cloud-native PostgreSQL with Prisma ORM integration.
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-Make sure you have the following:
+Ensure you have the following installed:
+
 - Node.js (Latest LTS version)
-- Vercel account for deployment
-- Clerk account for authentication
+- PostgreSQL account on NeonDB
+- Clerk developer account
 
 ---
 
 ### Installation
 
-1. Clone the repo: git clone https://github.com/meantaraa/ai-career-partner-zenith.git
+
+1. Clone the repository: git clone https://github.com/meantaraa/project-manager-gamma.git
 
 2. Install dependencies: npm install
 
-3. Run the development server: pm run dev
+3. Start the development server: npm run dev
+
 
 ---
 
-## 🌐 Deployment
+### 🔗 Deployment
 
-Zenith is live at: [https://ai-career-partner-zenith.vercel.app](https://ai-career-partner-zenith.vercel.app)
+Gamma is live at: [https://project-manager-gamma-psi.vercel.app/](https://project-manager-gamma-psi.vercel.app/)
 
 ---
 
-## 🤝 Contributing
+## 📌 Contributing
 
-We welcome contributions!
+We welcome contributions! To contribute:
 
-1. Fork the repository  
-2. Create a branch: `git checkout -b feature/your-feature`  
-3. Commit your changes: `git commit -m "Add your feature"`  
-4. Push your branch: `git push origin feature/your-feature`  
-5. Open a pull request
+1. Fork the repository
+
+2. Create a new branch: git checkout -b feature-name
+
+# 3. Make your changes and commit: git commit -m "Add new feature"
+
+# 4. Push to your branch: git push origin feature-name
+
+# 5. Submit a pull request
 
 ---
 
 🛠 Built with ❤️ by Antara Chanda
+
+```
+
