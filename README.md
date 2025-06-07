@@ -1,4 +1,4 @@
-# 🎯 toZENITH – Your AI Career Partner
+# 🎯ZENITH – Your AI Career Partner
 
 **Zenith** is a modern, AI-powered career development platform that helps you navigate the job market with confidence. Whether you're crafting the perfect resume, writing a compelling cover letter, or preparing for interviews — Zenith has your back. Every feature is tailored to your industry, skills, and goals.
 
@@ -131,3 +131,9 @@ git push origin feature/your-feature
 ---
 
 ## 🛠 Built with ❤️ by Antara Chanda
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
