@@ -121,11 +121,11 @@ export default function LandingPage() {
                     <div className="flex items-center space-x-4 mb-4">
                       <div className="relative h-12 w-12 flex-shrink-0">
                         <Image
-                          width={40}
-                          height={40}
-                          src={testimonial.image}
+                          src={`https://i.pravatar.cc/64?u=${testimonial.author}`}
+                          width={64}
+                          height={64}
                           alt={testimonial.author}
-                          className="rounded-full object-cover border-2 border-primary/20"
+                          className="rounded-full object-cover"
                         />
                       </div>
                       <div>
