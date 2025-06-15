@@ -121,7 +121,7 @@ export default function LandingPage() {
                     <div className="flex items-center space-x-4 mb-4">
                       <div className="relative h-12 w-12 flex-shrink-0">
                         <Image
-                          src={`https://i.pravatar.cc/64?u=${testimonial.author}`}
+                          src={`https://ui-avatars.com/api/?name=${encodeURIComponent(testimonial.author)}&background=0D8ABC&color=fff`}
                           width={64}
                           height={64}
                           alt={testimonial.author}
